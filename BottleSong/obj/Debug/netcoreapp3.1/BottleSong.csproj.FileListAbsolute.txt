@@ -1,0 +1,4 @@
+C:\Users\opilane\source\repos\TiTpe21\ForLoops\BottleSong\obj\Debug\netcoreapp3.1\BottleSong.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\TiTpe21\ForLoops\BottleSong\obj\Debug\netcoreapp3.1\BottleSong.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\TiTpe21\ForLoops\BottleSong\obj\Debug\netcoreapp3.1\BottleSong.AssemblyInfo.cs
+C:\Users\opilane\source\repos\TiTpe21\ForLoops\BottleSong\obj\Debug\netcoreapp3.1\BottleSong.csproj.CoreCompileInputs.cache
